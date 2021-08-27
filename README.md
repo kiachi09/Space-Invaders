@@ -1,2 +1,2 @@
 # Space Invaders
- A sci-fi game about spacecrafts where the objective is to destory all the enemies.
+Did a reiteration of the classic arcade game Space Invaders. Helped in learning basic game development. Built it using Python.
